@@ -26,7 +26,7 @@ html body {
 
 #frm {
 	padding:10px 15px;
-	background-color:#FFC8C8;
+	background-color:#0000ff;
 	
 	border:1px solid #818181;
 	
@@ -51,7 +51,7 @@ html body {
 <div id="container">
 
 	<div style="text-align:center;">
-		<h1 style="color:blue;">PHP-Proxy</h1>
+		<h1 style="color:blue;">I'm-not-a-goat: 2.0</h1>
 	</div>
 	
 	<?php if(isset($error_msg)){ ?>
@@ -82,7 +82,7 @@ html body {
 </div>
 
 <div id="footer">
-	Powered by <a href="//www.php-proxy.com/" target="_blank">PHP-Proxy</a> <?php echo $version; ?>
+	Powered by <a href="//www.php-proxy.com/" target="_blank">PHP-Proxy</a> <?php echo $version; ?><br>Remade by: Larry Liu of WWMS
 </div>
 
 
